@@ -17,3 +17,5 @@
 - footer.md 파일 추가
 
 ## SIDEBAR 추가
+
+## SEARCH 추가
